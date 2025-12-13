@@ -46,7 +46,6 @@ The data was originally provided as raw CSV files and required preprocessing and
 ├── project_guidelines.pdf   # Project guidelines
 ├── .env                # File for database access credentials
 ├── db_project.ipynb    # Main project notebook
-├── db_project.html     # HTML-version of db_project.ipynb
 ├── report.pdf          # Final LaTeX-report
 ├── presentation.pdf    # Final LaTeX-presentation
 ├── requirements.txt    # Python dependencies
@@ -63,6 +62,7 @@ The data was originally provided as raw CSV files and required preprocessing and
 * SQL
 * Jupyter Notebook
 * LaTeX
+* Git
 
 ---
 
@@ -96,5 +96,6 @@ This project demonstrates practical skills in:
 * Python-based database interaction
 * Reproducible data workflows
 * LaTeX for scientific reports and presentations
+* Team development using Git
 
 The focus is on engineering and data management rather than machine learning.
