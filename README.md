@@ -77,15 +77,6 @@ Key outcomes:
 
 ---
 
-## Authors
-
-* Danila Pechenev
-* Gwenn Garrigues
-
-MSc Data Science – Centrale Lille
-
----
-
 ## Skills
 
 This project demonstrates practical skills in:
@@ -99,3 +90,12 @@ This project demonstrates practical skills in:
 * Team development using Git
 
 The focus is on engineering and data management rather than machine learning.
+
+---
+
+## Authors
+
+* Danila Pechenev
+* Gwenn Garrigues
+
+MSc Data Science – Centrale Lille
