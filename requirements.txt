@@ -8,3 +8,5 @@ ipympl
 jupyterlab
 sqlalchemy
 psycopg2
+kagglehub
+python-dotenv
